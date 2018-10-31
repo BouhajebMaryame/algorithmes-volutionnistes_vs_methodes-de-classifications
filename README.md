@@ -10,3 +10,4 @@ Nombre de données mal classées          2.0           3.0           103.0     
 Taux d’erreur                           1.33%         2.00%         68.67%            10.83%
 
 d'après les Résultats obtenus on déduit que les algorithmes évolutionnistes (P.S.O. et E.D). sont meilleurs que les méthodes de classifications supervisées et non supervisées K-NN et K-means vu qu’il donne des résultats optimales avec un taux d’erreur minimal.
+
