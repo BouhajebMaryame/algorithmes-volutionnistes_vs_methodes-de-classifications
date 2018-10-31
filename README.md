@@ -23,30 +23,30 @@ Pour cette étude nous allons donner la configuration et les paramètres de chaq
                
            -  Nombre de données mal classées :
                   
-                PSO : 2.0  
+                PSO     : 2.0  
                 
                 
-                ED  : 3.0  
+                ED      : 3.0  
                 
                 
-                K-means    :68.67%  
+                K-means  : 68.67%  
                 
                 
-                K-means    :13.0
+                K-means  : 13.0
                 
           -  Taux d’erreur :
                 
                 
-                PSO : :1.33% 
+                PSO     :1.33% 
                 
                 
-                ED  : 2.00%  
+                ED      : 2.00%  
                 
                 
-                K-means    :103.0 
+                K-means : 103.0 
                 
                 
-                K-means    :10.83%
+                K-means  : 10.83%
                 
 
 d'après les Résultats obtenus on déduit que les algorithmes évolutionnistes (P.S.O. et E.D). sont meilleurs que les méthodes de classifications supervisées et non supervisées K-NN et K-means vu qu’il donne des résultats optimales avec un taux d’erreur minimal.
