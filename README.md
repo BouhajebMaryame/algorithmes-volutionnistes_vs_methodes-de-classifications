@@ -4,7 +4,7 @@ avec les résultats fournis par les  méthodes de classifications Supervisées e
 Pour cette étude nous allons donner la configuration et les paramètres de chaque algorithme à savoir les algorithmes évolutionnaires PSO et ED, ainsi que les algorithmes de classification K-means et K-NN.
 
 * les résultats obtenus :
-Les algorithmes                         
+                        
 
 
   PSO          Nombre de données  :150       Nombre de données mal classées :2.0        Taux d’erreur   :1.33%
